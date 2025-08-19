@@ -17,14 +17,14 @@
 
 | 이름 | 역할 | GitHub | 담당 업무 |
 |------|------|--------|------------|
-| 한지은 | 팀장 / 프론트엔드 개발 총괄 | [@hongdev](https://github.com/hongdev) | 정책 탐색 페이지(API) 구현, 스크랩 기능 개발 |
-| 장수영 | 부팀장 / 백엔드 개발 총괄 | [@kimvue](https://github.com/kimvue) | 금융 탐색 페이지(API) 구현, 스크랩 기능 개발 |
-| 김경민 | 발표/기획 총괄 | [@parkui](https://github.com/parkui) | 로그인/회원가입 기능 개발, 마이페이지/퍼스널 정보 구현 |
-| 김선영 | 백엔드 개발 총괄 | [@choifull](https://github.com/choifull) | 백엔드 개발 총괄, 계좌 연동 기능(API) 개발, 내 계좌 페이지 구성 |
-| 박세연 | 문서/기록 관리 총괄 | [@choifull](https://github.com/choifull) | 문서 및 기록 관리 총괄, 자산 목표 설정 기능 개발, 목표 페이지 구현 |
-| 박주용 | 기능 테스트 및 피드백 총괄 | [@choifull](https://github.com/choifull) | 자산 목표 설정 기능 개발, 목표 페이지 구현 |
-| 이수현 | GitHub 관리 총괄 | [@choifull](https://github.com/choifull) | 로그인/회원가입 기능 개발, 마이페이지/퍼스널 정보 구현 |
-| 최준혁 | 프론트엔드 개발 총괄 | [@choifull](https://github.com/choifull) | 계좌 연동 기능(API)개발, 내 계좌 페이지 구성  |
+| 한지은 | 팀장 / 프론트엔드 개발 총괄 | [@jieunee32](https://github.com/jieunee32) | 정책 탐색 페이지(API) 구현, 스크랩 기능 개발 |
+| 장수영 | 부팀장 / 백엔드 개발 총괄 | [@jsy1021](https://github.com/jsy1021) | 금융 탐색 페이지(API) 구현, 스크랩 기능 개발 |
+| 김경민 | 발표/기획 총괄 | [@kyuoummi](https://github.com/kyuoummi) | 로그인/회원가입 기능 개발, 마이페이지/퍼스널 정보 구현 |
+| 김선영 | 백엔드 개발 총괄 | [@seonyeong111](https://github.com/seonyeong111) | 백엔드 개발 총괄, 계좌 연동 기능(API) 개발, 내 계좌 페이지 구성 |
+| 박세연 | 문서/기록 관리 총괄 | [@se-3-yeon](https://github.com/se-3-yeon) | 문서 및 기록 관리 총괄, 자산 목표 설정 기능 개발, 목표 페이지 구현 |
+| 박주용 | 기능 테스트 및 피드백 총괄 | [@ju1645](https://github.com/ju1645) | 자산 목표 설정 기능 개발, 목표 페이지 구현 |
+| 이수현 | GitHub 관리 총괄 | [@soohyun1904](https://github.com/soohyun1904) | 로그인/회원가입 기능 개발, 마이페이지/퍼스널 정보 구현 |
+| 최준혁 | 프론트엔드 개발 총괄 | [@choijoonhyeok](https://github.com/choijoonhyeok) | 계좌 연동 기능(API)개발, 내 계좌 페이지 구성  |
 
 
 ---
@@ -114,8 +114,8 @@
 - 정기 API 동기화 및 정책 스크래핑 (Scheduler)
 - 목표 기반 추천 로직 및 적합도 점수화 알고리즘 구성
 
-> ※ 아키텍처 다이어그램 예시 이미지 삽입 가능  
-![Mozi 시스템 아키텍처](https://github.com/user-attachments/assets/1f8faec3-f0ad-4a9c-a894-0832bfeb57be)
+![Mozi 시스템 아키텍처](https://github.com/user-attachments/assets/459d10cc-4bdf-4572-8818-6a97d1ac441c)
+
 
 ---
 
