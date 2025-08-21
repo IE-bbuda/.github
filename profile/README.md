@@ -216,7 +216,7 @@
 ---
 ## 🔍 개선 및 고도화 계획
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2526fa47-24d4-4bb7-8399-b42790882f0f" width="800"/>
+  <img src="https://github.com/user-attachments/assets/e58a90ea-c9f5-4ba7-a90b-89bb17d6263e" width="800"/>
 </p>
 
 
